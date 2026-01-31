@@ -153,7 +153,7 @@ PostgreSQL DB → Normalización → Reglas Neg. → Agregaciones → S3
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 - **Cristian Iglesias Vera** - [ciglesiasvera](https://github.com/ciglesiasvera) - ciglesiasvera@gmail.com
 
 ## 📄 Licencia
